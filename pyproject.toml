@@ -1,6 +1,6 @@
 [project]
 name = "cleanse"
-version = "0.1.0"
+version = "0.1.1"
 description = "Recursively check Python packages for purity."
 authors = [
     {name = "bitnom", email = "14287229+bitnom@users.noreply.github.com"},
